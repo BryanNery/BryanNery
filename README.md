@@ -2,7 +2,7 @@
 
 - :computer: Atualmente no 7° período de Ciência da Computação
 - :page_facing_up: Em busca de estágio/emprego na área de front-end
-- 
+
 <!--
 **BryanNery/BryanNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
