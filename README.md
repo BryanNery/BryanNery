@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-007785?style-for-the-badge&logo=linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Br569fI6CQseK9BOH4fS9MQ%3D%3D)
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style-for-the-badge&logo=linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/bryan-de-oliveira-nery-09792a1b8/)
 
