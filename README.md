@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanNery)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projeto TikTok
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BryanNery&repo=TikTok-Project)](https://github.com/anuraghazra/github-readme-stats)
