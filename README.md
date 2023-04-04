@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BryanNery&repo=TikTok-Project)](https://github.com/BryanNery/TikTok-Project)
 
-## Linguagens utilizadas
+### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanNery)](https://github.com/anuraghazra/github-readme-stats)
 
